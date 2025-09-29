@@ -1,0 +1,3 @@
+Flask==2.3.2
+pymongo==4.6.1
+dnspython==2.3.0  # MongoDB Atlas ke liye optional but recommended
